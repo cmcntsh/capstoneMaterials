@@ -25,6 +25,8 @@
 
 #### Capstone Manuscript
 
+* Videos coming later.
+
 ### Other Demonstrations
 
 * Progress Reports and Hours Log (8 minutes) https://youtu.be/mKeaFKdNz2o
