@@ -8,7 +8,7 @@
 * Fall Week 2 - Initial Understanding of the Project (12 minutes) https://youtu.be/pkEGaFxcWOI
 * Fall Week 3 - Prepare Project Kickoff Meeting Agenda (5 minutes) https://youtu.be/UoyWnLNQWI0
 * Fall Week 4 - Reviewing Academic Writing and Writing Resources (13 minutes) https://youtu.be/5BIO3XYmMKU
-* Fall Week 5 - Problem Statement (5 minutes) 
+* Fall Week 5 - Problem Statement (5 minutes) https://youtu.be/maoaDw_deiQ
 
 ### Other Demonstrations
 
