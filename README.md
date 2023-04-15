@@ -4,6 +4,8 @@
 
 ### Weekly Teaching
 
+#### Project Proposal
+
 * Fall Week 1 - Capstone Overview (4 minutes) https://youtu.be/13ZHOghAi9g
 * Fall Week 2 - Initial Understanding of the Project (12 minutes) https://youtu.be/pkEGaFxcWOI
 * Fall Week 3 - Prepare Project Kickoff Meeting Agenda (5 minutes) https://youtu.be/UoyWnLNQWI0
@@ -18,6 +20,8 @@
 * Fall Week 12 - Instruments (4 minutes) https://youtu.be/whVZvERdThg
 * Fall Week 13 - Work Breakdown Structure (WBS) (8 minutes) https://youtu.be/VEMydZDE4xY
 * Fall Week 14 - Sequenced Task List and Project Timeline (7 minutes) https://youtu.be/hyRAAIJiuw0
+
+#### Capstone Manuscript
 
 ### Other Demonstrations
 
