@@ -11,6 +11,8 @@
 * Fall Week 5 - Problem Statement (5 minutes) https://youtu.be/maoaDw_deiQ
 * Fall Week 6 - Available Knowledge Literature Search (12 minutes) https://youtu.be/zn3Zl2Ur8Vc
 * Fall Week 7 - Problem - Aim - Objectives (7 minutes) https://youtu.be/rInBYymvcIs
+* Fall Week 8 - Fall Break
+* Fall Week 9 - Project Context and Ethics (5 minutes) 
 
 ### Other Demonstrations
 
