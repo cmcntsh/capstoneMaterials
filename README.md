@@ -28,3 +28,7 @@
 ### Other Demonstrations
 
 * Progress Reports and Hours Log (8 minutes) https://youtu.be/mKeaFKdNz2o
+
+## Files and Documents
+
+* Project Proposal Template (Word document assignment template that these videos refer to.) [Project Proposal Template](https://github.com/cmcntsh/capstoneMaterials/raw/main/YourName%20YYYY-MM-DD%20NURS%206880%20Project%20Proposal%20Template.docx)
