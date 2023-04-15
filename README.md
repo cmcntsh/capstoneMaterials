@@ -17,7 +17,7 @@
 * Fall Week 11 - Objectives, Methods, Deliverables (8 minutes) https://youtu.be/z8_iD3b-Zx0
 * Fall Week 12 - Instruments (4 minutes) https://youtu.be/whVZvERdThg
 * Fall Week 13 - Work Breakdown Structure (WBS) (8 minutes) https://youtu.be/VEMydZDE4xY
-* Fall Week 14 - Sequenced Task List and Project Timeline (7 minutes) 
+* Fall Week 14 - Sequenced Task List and Project Timeline (7 minutes) https://youtu.be/hyRAAIJiuw0
 
 ### Other Demonstrations
 
