@@ -10,7 +10,7 @@
 * Fall Week 4 - Reviewing Academic Writing and Writing Resources (13 minutes) https://youtu.be/5BIO3XYmMKU
 * Fall Week 5 - Problem Statement (5 minutes) https://youtu.be/maoaDw_deiQ
 * Fall Week 6 - Available Knowledge Literature Search (12 minutes) https://youtu.be/zn3Zl2Ur8Vc
-* Fall Week 7 - Problem - Aim - Objectives (7 minutes) 
+* Fall Week 7 - Problem - Aim - Objectives (7 minutes) https://youtu.be/rInBYymvcIs
 
 ### Other Demonstrations
 
