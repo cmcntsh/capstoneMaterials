@@ -15,6 +15,7 @@
 * Fall Week 9 - Project Context and Ethics (5 minutes) https://youtu.be/bXbcB43Icek
 * Fall Week 10 - Rationale - Framework/Model/Theory (6 minutes) https://youtu.be/bGWJ3FQGHe8
 * Fall Week 11 - Objectives, Methods, Deliverables (8 minutes) 
+* Fall Week 12 - Instruments (4 minutes) 
 
 ### Other Demonstrations
 
