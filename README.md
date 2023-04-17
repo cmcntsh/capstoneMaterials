@@ -21,7 +21,6 @@
 * Fall Week 13 - Work Breakdown Structure (WBS) (8 minutes) https://youtu.be/VEMydZDE4xY
 * Fall Week 14 - Sequenced Task List and Project Timeline (7 minutes) https://youtu.be/hyRAAIJiuw0
 * Fall Week 15 - Full Project Proposal
-
 * A playlist of these videos is available on YouTube https://www.youtube.com/playlist?list=PLG9A6ovzPqX4Sz25YXB8PWSlHTW8qYgGG
 
 #### Capstone Manuscript
