@@ -51,3 +51,4 @@
 
 * [Project Proposal Template](https://github.com/cmcntsh/capstoneMaterials/raw/main/YourName%20YYYY-MM-DD%20NURS%206880%20Project%20Proposal%20Template.docx) (Word document assignment template these videos refer to. Click link to download.)
 * [Capstone Toolkit](https://github.com/cmcntsh/capstoneMaterials/raw/main/CapstoneProjectToolkit_v6_2023-04-14.xlsx) (Excel workbook with various tools and forms these videos refer to. Click link to download.)
+* [Capstone Work Breakdown Structure](https://github.com/cmcntsh/capstoneMaterials/raw/main/CapstoneWBS.pdf) (PDF of the work breakdown structure diagram used in the videos. Click link to download.)
