@@ -46,6 +46,7 @@
 ### Other Demonstrations
 
 * Progress Reports and Hours Log (8 minutes) https://youtu.be/mKeaFKdNz2o
+* Create APA 7 Tables in Excel or Word (36 minutes) 
 
 ## Files and Documents
 
