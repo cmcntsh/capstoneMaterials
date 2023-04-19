@@ -18,7 +18,7 @@
 * Fall Week 10 - Rationale - Framework/Model/Theory (6 minutes) https://youtu.be/bGWJ3FQGHe8
 * Fall Week 11 - Objectives, Methods, Deliverables (8 minutes) https://youtu.be/z8_iD3b-Zx0
 * Fall Week 12 - Instruments (4 minutes) https://youtu.be/whVZvERdThg
-  * Describe and Evaluate Psychometric Instruments (21 minutes) 
+  * Describe and Evaluate Psychometric Instruments (21 minutes) https://youtu.be/GgKHtbFAc3A
 * Fall Week 13 - Work Breakdown Structure (WBS) (8 minutes) https://youtu.be/VEMydZDE4xY
 * Fall Week 14 - Sequenced Task List and Project Timeline (7 minutes) https://youtu.be/hyRAAIJiuw0
 * Fall Week 15 - Full Project Proposal
